@@ -33,4 +33,11 @@ How to use:
 - Select single or multiple objects in object mode.
 - Click "Clean UV maps" in the N panel, "PandaTools" menu
 
+# Installation
+
+You can download and install the add-on from the "releases" tab:
+
+![image](https://github.com/AliMusllam/PandaTools/assets/65841337/5f040c9c-27a9-419f-814b-7ca0fb651b8f)
+
+
 ### Disclaimers: The tools are extremely basic and made to perform simple, but important tasks. Bugs are expected.
