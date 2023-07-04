@@ -2,8 +2,8 @@
 A basic personal repository for simple Blender tools that I use frequently in my work.
 
 Currently, it have only two tools:
-1- Snap Origin to Selection
-2- Cleanup UV Maps
+- Snap Origin to Selection
+- Cleanup UV Maps
 
 # Snap Origin to selection
 
