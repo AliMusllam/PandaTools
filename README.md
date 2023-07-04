@@ -18,9 +18,11 @@ How to use:
 # Cleanup UV Maps
 
 From:
+
 ![image](https://github.com/AliMusllam/PandaTools/assets/65841337/2e6151ae-fd7d-4414-8694-ed23b188d330)
 
 To:
+
 ![image](https://github.com/AliMusllam/PandaTools/assets/65841337/bf54fd16-e8bf-463b-a6ed-4c571a978591)
 
 The tool is made specifically for the models that are imported into different software/websites. Sometimes, you have multiple UV maps in one object, which may cause several problems, specifically in the texturing/normal map side of things.
