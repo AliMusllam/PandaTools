@@ -12,8 +12,9 @@ Currently, it have only two tools:
 It snaps the origin of the object to whatever ever selected in the edit mode, the main objective is to have a shortcut instead of snapping the cursor, then snapping the origin. Currently, the cursor stays in the same position after snapping, instead of returning to the cursor's original position before the operation (Can be changed if needed).
 
 How to use:
-1- Select face/s, edge/s or vertex/vertices in edit mode.
-2- Click "Snap Origin" in the N panel, "PandaTools" menu
+
+- Select face/s, edge/s or vertex/vertices in edit mode.
+- Click "Snap Origin" in the N panel, "PandaTools" menu
 
 # Cleanup UV Maps
 
@@ -28,7 +29,8 @@ To:
 The tool is made specifically for the models that are imported into different software/websites. Sometimes, you have multiple UV maps in one object, which may cause several problems, specifically in the texturing/normal map side of things.
 
 How to use:
-1- Select single or multiple objects in object mode.
-2- Click "Clean UV maps" in the N panel, "PandaTools" menu
+
+- Select single or multiple objects in object mode.
+- Click "Clean UV maps" in the N panel, "PandaTools" menu
 
 ### Disclaimers: The tools are extremely basic and made to perform simple, but important tasks. Bugs are expected.
