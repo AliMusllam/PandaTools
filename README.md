@@ -7,7 +7,8 @@ Currently, it have only two tools:
 
 # Snap Origin to selection
 
-![image](https://github.com/AliMusllam/PandaTools/assets/65841337/013ebbb7-569d-4855-bca4-d8c8d979b901)
+![SnapOrigin](https://github.com/user-attachments/assets/2c4e346b-d0c2-4f8f-99fa-6faedd9a4fb8)
+
 
 It snaps the origin of the object to whatever ever selected in the edit mode, the main objective is to have a shortcut instead of snapping the cursor, then snapping the origin. Currently, the cursor stays in the same position after snapping, instead of returning to the cursor's original position before the operation (Can be changed if needed).
 
